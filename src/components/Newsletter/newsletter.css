@@ -1,0 +1,25 @@
+.newsletter {
+  background: #12c7a3;
+
+  padding: 60px;
+  border-radius: 15px;
+}
+
+.newsletter h2 {
+  color: #f7eaea;
+}
+.subscribe input {
+  border: none;
+  outline: none;
+}
+
+.subscribe {
+  padding: 7px 10px;
+  background: #fcf5f5;
+  width: 45%;
+  margin: auto;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
